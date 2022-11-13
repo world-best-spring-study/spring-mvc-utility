@@ -2,7 +2,7 @@
 <br>
 **[2. 타임 리프 소개](타임리프소개.md)**
 <br>
-**[3. 텍스트 - text, utext](text,-utext.md)**
+**[3. 텍스트 - text, utext](text,utext.md)**
 <br>
 **[4. 변수 - springEL 표현식](변수springEL.md)**
 <br>
