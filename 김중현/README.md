@@ -14,4 +14,5 @@
 <br>
 
 ## 💻 프로젝트
+- [타임리프 기초](https://github.com/JoongHyun-Kim/thymeleaf-basic)
 - [타임리프를 활용한 상품 서비스](https://github.com/JoongHyun-Kim/form-thymeleaf)
